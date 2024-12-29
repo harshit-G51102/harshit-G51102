@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Harshit</h1>
 <p align="center">
-  <img src="github_banner.png" alt="Banner" width="100%" />
+  <img src="github_banner2.png" alt="Banner" width="100%" />
 </p>
 <p>A passionate full stack developer</p>
 <h2>🚀 Languages and Tools I Use</h2>
