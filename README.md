@@ -27,7 +27,7 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/harshit-gangwar-5ab56b252/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=harshit-G51102&show_icons=true&locale=en" alt="harshit-G51102" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=harshit-G51102&show_icons=true&locale=en" alt="harshit-G51102" /></p> -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshit-G51102&" alt="harshit-G51102" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit-G51102&show_icons=true&locale=en&layout=compact" alt="harshit-G51102" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshit-G51102" alt="harshit-G51102" /></a></p>
