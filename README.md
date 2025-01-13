@@ -74,8 +74,12 @@
     <td align="center" width="12.5%">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
         <br>Docker
-    </tr>
       </td>
+      <td align="center" width="12.5%">
+        <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="65" height="65" />
+        <br>Jest
+      </td>
+    </tr>
       <!-- Add more items if needed -->
   </table>
 </div>
