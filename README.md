@@ -97,4 +97,4 @@
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=harshit-G51102&show_icons=true&locale=en" alt="harshit-G51102" /></p> -->
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshit-G51102&" alt="harshit-G51102" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit-G51102&show_icons=true&locale=en&layout=compact" alt="harshit-G51102" /></p> -->
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshit-G51102" alt="harshit-G51102" /></a></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshit-G51102&theme=juicyfresh" alt="harshit-G51102" /></a></p>
